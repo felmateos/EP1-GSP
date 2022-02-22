@@ -40,10 +40,10 @@ O código que está na pasta `src` contém o código do projeto e *não deve ser
 ## Tarefas
 
 - Git
-    - [ ] Verifique qual o id do commit em que as páginas do juwupiter weeb foram adicionadas, bem como seu autor e data. Registre essas infos em um arquivo TAREFAS.md
+    - [X] Verifique qual o id do commit em que as páginas do juwupiter weeb foram adicionadas, bem como seu autor e data. Registre essas infos em um arquivo TAREFAS.md
 - Metaprogramação
-    - [ ] Adicione um script no `package.json` para rodar todos os testes de unidade na pasta `src`
-    - [ ] Crie um teste de unidade que você achar interessante, utilize pelo menos um `expect` e uma função de mock (`jest.fn()`, nesse caso).
+    - [X] Adicione um script no `package.json` para rodar todos os testes de unidade na pasta `src`
+    - [X] Crie um teste de unidade que você achar interessante, utilize pelo menos um `expect` e uma função de mock (`jest.fn()`, nesse caso).
 - Containers e Cloud
     - [ ] Crie um Dockerfile para aplicação
     - [ ] Suba um container utilizando o Dockerfile criado e exponha a porta 3000 do container para a sua porta 8080. Acesse a aplicação no navegador do computador hospedeiro, registrando os passos realizados para tal em um arquivo TAREFAS.md

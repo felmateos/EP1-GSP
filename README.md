@@ -50,7 +50,7 @@ O código que está na pasta `src` contém o código do projeto e *não deve ser
 - Shell
     - [ ] Crie um script em shell para gerar a imagem Docker e subir um container a partir dessa imagem. Esse script deve permitir que o usuário escolha em qual porta do computador hospedeiro a aplicação deve rodar
 - Tarefas bônus
-    - [ ] Utilizar um dos 3 editores de texto expostos nas aulas ou o comando `sed` para trocar todos as tags `<li>` em uma página por tags `<p>`
-    - [ ] Utilizar o GitHub para hospedar o EP e registrar o progresso em commits
+    - [X] Utilizar um dos 3 editores de texto expostos nas aulas ou o comando `sed` para trocar todos as tags `<li>` em uma página por tags `<p>`
+    - [X] Utilizar o GitHub para hospedar o EP e registrar o progresso em commits
     - [ ] Utilizar o recurso de CI/CD do GitHub para verificar bugs e memory leaks no código
     - [ ] Utilize um Volume Docker para permitir que os arquivos da pasta `views` possam ser alterados de fora do container

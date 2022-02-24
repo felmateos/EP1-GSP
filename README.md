@@ -45,8 +45,8 @@ O código que está na pasta `src` contém o código do projeto e *não deve ser
     - [X] Adicione um script no `package.json` para rodar todos os testes de unidade na pasta `src`
     - [X] Crie um teste de unidade que você achar interessante, utilize pelo menos um `expect` e uma função de mock (`jest.fn()`, nesse caso).
 - Containers e Cloud
-    - [ ] Crie um Dockerfile para aplicação
-    - [ ] Suba um container utilizando o Dockerfile criado e exponha a porta 3000 do container para a sua porta 8080. Acesse a aplicação no navegador do computador hospedeiro, registrando os passos realizados para tal em um arquivo TAREFAS.md
+    - [X] Crie um Dockerfile para aplicação
+    - [X] Suba um container utilizando o Dockerfile criado e exponha a porta 3000 do container para a sua porta 8080. Acesse a aplicação no navegador do computador hospedeiro, registrando os passos realizados para tal em um arquivo TAREFAS.md
 - Shell
     - [ ] Crie um script em shell para gerar a imagem Docker e subir um container a partir dessa imagem. Esse script deve permitir que o usuário escolha em qual porta do computador hospedeiro a aplicação deve rodar
 - Tarefas bônus
